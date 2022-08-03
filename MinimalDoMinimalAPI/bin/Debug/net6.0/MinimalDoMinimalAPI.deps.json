@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MinimalDoMinimalAPI/1.0.0": {
+        "dependencies": {
+          "FastEndpoints": "4.3.1"
+        },
+        "runtime": {
+          "MinimalDoMinimalAPI.dll": {}
+        }
+      },
+      "FastEndpoints/4.3.1": {
+        "dependencies": {
+          "FluentValidation": "11.1.0"
+        },
+        "runtime": {
+          "lib/net6.0/FastEndpoints.dll": {
+            "assemblyVersion": "4.3.1.0",
+            "fileVersion": "4.3.1.0"
+          }
+        }
+      },
+      "FluentValidation/11.1.0": {
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinimalDoMinimalAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FastEndpoints/4.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nHRNCvqUF5byCEvWaGq8aduf9SgammYoQI6MKjKQqT4n+t50RjwcjhPrgFxeXiXVMh5SVLG+Yp+9hgdDDyALsQ==",
+      "path": "fastendpoints/4.3.1",
+      "hashPath": "fastendpoints.4.3.1.nupkg.sha512"
+    },
+    "FluentValidation/11.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ld7w+2jOmnhQqFkngEGuEWTRa5j6u4Xzli7jKxRtbA5PtuHHcpin01qxvxYL0LomeJuzRMGAOURu2rKONdjKQA==",
+      "path": "fluentvalidation/11.1.0",
+      "hashPath": "fluentvalidation.11.1.0.nupkg.sha512"
+    }
+  }
+}

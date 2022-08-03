@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jgf3ZFNtO1xPiv+fDEJGd/UDzAaX76DCY6El6ZuRcmz7s2htveiza6dCGWPQplc4NisFhX+507YdNEex8bXZyg==",
+  "success": true,
+  "projectFilePath": "C:\\Baltinha\\MinimalDoMinimalAPI\\MinimalDoMinimalAPI\\MinimalDoMinimalAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduardo\\.nuget\\packages\\fastendpoints\\4.3.1\\fastendpoints.4.3.1.nupkg.sha512",
+    "C:\\Users\\eduardo\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
